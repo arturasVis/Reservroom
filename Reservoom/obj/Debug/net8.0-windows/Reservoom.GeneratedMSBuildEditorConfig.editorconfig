@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Reservoom
-build_property.ProjectDir = C:\Users\artel\source\repos\Reservoom\Reservoom\
+build_property.ProjectDir = C:\repos\Reservroom\Reservoom\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

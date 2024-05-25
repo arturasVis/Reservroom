@@ -1,102 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\artel\\source\\repos\\Reservoom\\",
+  "WorkspaceRootPath": "C:\\repos\\Reservroom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|C:\\Users\\artel\\source\\repos\\Reservoom\\reservoom\\viewmodel\\reservationlistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\viewmodel\\reservationlistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|C:\\Users\\artel\\source\\repos\\Reservoom\\reservoom\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\repos\\reservroom\\reservoom\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|C:\\Users\\artel\\source\\repos\\Reservoom\\reservoom\\viewmodel\\makereservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\viewmodel\\makereservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\repos\\reservroom\\reservoom\\commands\\asynccommandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\commands\\asynccommandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\users\\artel\\source\\repos\\reservoom\\reservoom\\commands\\makereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\commands\\makereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\repos\\reservroom\\reservoom\\commands\\loadreservationscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\commands\\loadreservationscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|C:\\Users\\artel\\source\\repos\\Reservoom\\reservoom\\views\\makereservationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\views\\makereservationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\repos\\reservroom\\reservoom\\viewmodel\\reservationlistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\viewmodel\\reservationlistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\users\\artel\\source\\repos\\reservoom\\reservoom\\commands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\commands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\repos\\reservroom\\reservoom\\hostbuilders\\addviewmodelshostbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\hostbuilders\\addviewmodelshostbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\users\\artel\\source\\repos\\reservoom\\reservoom\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\repos\\reservroom\\reservoom\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|C:\\Users\\artel\\source\\repos\\Reservoom\\reservoom\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\repos\\reservroom\\reservoom\\services\\reservationproviders\\databasereservationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\services\\reservationproviders\\databasereservationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\repos\\reservroom\\reservoom\\services\\reservationcreators\\reservationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\services\\reservationcreators\\reservationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\repos\\reservroom\\reservoom\\viewmodel\\makereservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\viewmodel\\makereservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\repos\\reservroom\\reservoom\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|C:\\Users\\artel\\source\\repos\\Reservoom\\reservoom\\views\\reservationlistingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\views\\reservationlistingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\repos\\reservroom\\reservoom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\users\\artel\\source\\repos\\reservoom\\reservoom\\stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\repos\\reservroom\\reservoom\\reservoom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\reservoom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|C:\\Users\\artel\\source\\repos\\Reservoom\\reservoom\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\repos\\reservroom\\reservoom\\commands\\makereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\commands\\makereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|C:\\Users\\artel\\source\\repos\\Reservoom\\reservoom\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|C:\\Users\\artel\\source\\repos\\Reservoom\\reservoom\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\users\\artel\\source\\repos\\reservoom\\reservoom\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|C:\\Users\\artel\\source\\repos\\Reservoom\\reservoom\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|C:\\Users\\artel\\source\\repos\\Reservoom\\reservoom\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\users\\artel\\source\\repos\\reservoom\\reservoom\\views\\reservationlistingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\views\\reservationlistingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\users\\artel\\source\\repos\\reservoom\\reservoom\\views\\makereservationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\views\\makereservationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\users\\artel\\source\\repos\\reservoom\\reservoom\\commands\\commandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\commands\\commandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\users\\artel\\source\\repos\\reservoom\\reservoom\\viewmodel\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\viewmodel\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|C:\\Users\\artel\\source\\repos\\Reservoom\\reservoom\\exeptions\\reservationconflictexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\exeptions\\reservationconflictexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|C:\\Users\\artel\\source\\repos\\Reservoom\\reservoom\\models\\reservationbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\models\\reservationbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|C:\\Users\\artel\\source\\repos\\Reservoom\\reservoom\\models\\roomid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\models\\roomid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|C:\\Users\\artel\\source\\repos\\Reservoom\\reservoom\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|c:\\repos\\reservroom\\reservoom\\commands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08F6AEE-F6FB-48C0-87B0-044A39AF3190}|Reservoom\\Reservoom.csproj|solutionrelative:reservoom\\commands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,312 +66,188 @@
       "DocumentGroups": [
         {
           "DockedWidth": 185,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NavigateCommand.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Commands\\NavigateCommand.cs",
-              "RelativeDocumentMoniker": "Reservoom\\Commands\\NavigateCommand.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Commands\\NavigateCommand.cs",
-              "RelativeToolTip": "Reservoom\\Commands\\NavigateCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
+              "DocumentIndex": 3,
+              "Title": "ReservationListingViewModel.cs",
+              "DocumentMoniker": "C:\\repos\\Reservroom\\Reservoom\\ViewModel\\ReservationListingViewModel.cs",
+              "RelativeDocumentMoniker": "Reservoom\\ViewModel\\ReservationListingViewModel.cs",
+              "ToolTip": "C:\\repos\\Reservroom\\Reservoom\\ViewModel\\ReservationListingViewModel.cs",
+              "RelativeToolTip": "Reservoom\\ViewModel\\ReservationListingViewModel.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAvwFEAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T18:47:28.041Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NavigationService.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Services\\NavigationService.cs",
-              "RelativeDocumentMoniker": "Reservoom\\Services\\NavigationService.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Services\\NavigationService.cs",
-              "RelativeToolTip": "Reservoom\\Services\\NavigationService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T19:25:39.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MakeReservationView.xaml",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Views\\MakeReservationView.xaml",
-              "RelativeDocumentMoniker": "Reservoom\\Views\\MakeReservationView.xaml",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Views\\MakeReservationView.xaml",
-              "RelativeToolTip": "Reservoom\\Views\\MakeReservationView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-22T20:01:18.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MakeReservationViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\ViewModel\\MakeReservationViewModel.cs",
-              "RelativeDocumentMoniker": "Reservoom\\ViewModel\\MakeReservationViewModel.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\ViewModel\\MakeReservationViewModel.cs",
-              "RelativeToolTip": "Reservoom\\ViewModel\\MakeReservationViewModel.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAuwFsAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T20:39:27.819Z",
+              "WhenOpened": "2024-05-25T20:10:31.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ReservationListingViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\ViewModel\\ReservationListingViewModel.cs",
-              "RelativeDocumentMoniker": "Reservoom\\ViewModel\\ReservationListingViewModel.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\ViewModel\\ReservationListingViewModel.cs",
-              "RelativeToolTip": "Reservoom\\ViewModel\\ReservationListingViewModel.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAgwCkAAAA4AAAA",
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\repos\\Reservroom\\Reservoom\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Reservoom\\App.xaml.cs",
+              "ToolTip": "C:\\repos\\Reservroom\\Reservoom\\App.xaml.cs",
+              "RelativeToolTip": "Reservoom\\App.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAtwDYAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T20:39:43.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\App.xaml",
-              "RelativeDocumentMoniker": "Reservoom\\App.xaml",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\App.xaml",
-              "RelativeToolTip": "Reservoom\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-22T20:18:09.886Z",
+              "WhenOpened": "2024-05-25T19:44:25.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\App.xaml.cs",
-              "RelativeDocumentMoniker": "Reservoom\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\App.xaml.cs",
-              "RelativeToolTip": "Reservoom\\App.xaml.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAuwCoAAAA5AAAA",
+              "Title": "AsyncCommandBase.cs",
+              "DocumentMoniker": "C:\\repos\\Reservroom\\Reservoom\\Commands\\AsyncCommandBase.cs",
+              "RelativeDocumentMoniker": "Reservoom\\Commands\\AsyncCommandBase.cs",
+              "ToolTip": "C:\\repos\\Reservroom\\Reservoom\\Commands\\AsyncCommandBase.cs",
+              "RelativeToolTip": "Reservoom\\Commands\\AsyncCommandBase.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T19:06:21.601Z",
+              "WhenOpened": "2024-05-25T21:08:17.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MakeReservationCommand.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Commands\\MakeReservationCommand.cs",
-              "RelativeDocumentMoniker": "Reservoom\\Commands\\MakeReservationCommand.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Commands\\MakeReservationCommand.cs",
-              "RelativeToolTip": "Reservoom\\Commands\\MakeReservationCommand.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAtAAAA",
+              "DocumentIndex": 2,
+              "Title": "LoadReservationsCommand.cs",
+              "DocumentMoniker": "C:\\repos\\Reservroom\\Reservoom\\Commands\\LoadReservationsCommand.cs",
+              "RelativeDocumentMoniker": "Reservoom\\Commands\\LoadReservationsCommand.cs",
+              "ToolTip": "C:\\repos\\Reservroom\\Reservoom\\Commands\\LoadReservationsCommand.cs",
+              "RelativeToolTip": "Reservoom\\Commands\\LoadReservationsCommand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T18:03:36.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ReservationListingView.xaml",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Views\\ReservationListingView.xaml",
-              "RelativeDocumentMoniker": "Reservoom\\Views\\ReservationListingView.xaml",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Views\\ReservationListingView.xaml",
-              "RelativeToolTip": "Reservoom\\Views\\ReservationListingView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-22T20:01:50.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NavigationStore.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Stores\\NavigationStore.cs",
-              "RelativeDocumentMoniker": "Reservoom\\Stores\\NavigationStore.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Stores\\NavigationStore.cs",
-              "RelativeToolTip": "Reservoom\\Stores\\NavigationStore.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T19:01:57.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\ViewModel\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "Reservoom\\ViewModel\\ViewModelBase.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\ViewModel\\ViewModelBase.cs",
-              "RelativeToolTip": "Reservoom\\ViewModel\\ViewModelBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBEAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T20:36:36.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\ViewModel\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "Reservoom\\ViewModel\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\ViewModel\\MainViewModel.cs",
-              "RelativeToolTip": "Reservoom\\ViewModel\\MainViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T20:40:13.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "Reservoom\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\AssemblyInfo.cs",
-              "RelativeToolTip": "Reservoom\\AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T18:07:07.41Z",
+              "WhenOpened": "2024-05-25T21:16:15.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Reservoom\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\MainWindow.xaml",
-              "RelativeToolTip": "Reservoom\\MainWindow.xaml",
+              "Title": "MakeReservationCommand.cs",
+              "DocumentMoniker": "C:\\repos\\Reservroom\\Reservoom\\Commands\\MakeReservationCommand.cs",
+              "RelativeDocumentMoniker": "Reservoom\\Commands\\MakeReservationCommand.cs",
+              "ToolTip": "C:\\repos\\Reservroom\\Reservoom\\Commands\\MakeReservationCommand.cs",
+              "RelativeToolTip": "Reservoom\\Commands\\MakeReservationCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:07:25.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservationCreator.cs",
+              "DocumentMoniker": "C:\\repos\\Reservroom\\Reservoom\\Services\\ReservationCreators\\ReservationCreator.cs",
+              "RelativeDocumentMoniker": "Reservoom\\Services\\ReservationCreators\\ReservationCreator.cs",
+              "ToolTip": "C:\\repos\\Reservroom\\Reservoom\\Services\\ReservationCreators\\ReservationCreator.cs",
+              "RelativeToolTip": "Reservoom\\Services\\ReservationCreators\\ReservationCreator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:31:25.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseReservationProvider.cs",
+              "DocumentMoniker": "C:\\repos\\Reservroom\\Reservoom\\Services\\ReservationProviders\\DatabaseReservationProvider.cs",
+              "RelativeDocumentMoniker": "Reservoom\\Services\\ReservationProviders\\DatabaseReservationProvider.cs",
+              "ToolTip": "C:\\repos\\Reservroom\\Reservoom\\Services\\ReservationProviders\\DatabaseReservationProvider.cs",
+              "RelativeToolTip": "Reservoom\\Services\\ReservationProviders\\DatabaseReservationProvider.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:29:16.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddViewModelsHostBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\repos\\Reservroom\\Reservoom\\HostBuilders\\AddViewModelsHostBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Reservoom\\HostBuilders\\AddViewModelsHostBuilderExtensions.cs",
+              "ToolTip": "C:\\repos\\Reservroom\\Reservoom\\HostBuilders\\AddViewModelsHostBuilderExtensions.cs",
+              "RelativeToolTip": "Reservoom\\HostBuilders\\AddViewModelsHostBuilderExtensions.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:48:18.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\repos\\Reservroom\\Reservoom\\Services\\NavigationService.cs",
+              "RelativeDocumentMoniker": "Reservoom\\Services\\NavigationService.cs",
+              "ToolTip": "C:\\repos\\Reservroom\\Reservoom\\Services\\NavigationService.cs",
+              "RelativeToolTip": "Reservoom\\Services\\NavigationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:02:23.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\repos\\Reservroom\\Reservoom\\appsettings.json",
+              "RelativeDocumentMoniker": "Reservoom\\appsettings.json",
+              "ToolTip": "C:\\repos\\Reservroom\\Reservoom\\appsettings.json",
+              "RelativeToolTip": "Reservoom\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T20:41:29.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Reservoom",
+              "DocumentMoniker": "C:\\repos\\Reservroom\\Reservoom\\Reservoom.csproj",
+              "RelativeDocumentMoniker": "Reservoom\\Reservoom.csproj",
+              "ToolTip": "C:\\repos\\Reservroom\\Reservoom\\Reservoom.csproj",
+              "RelativeToolTip": "Reservoom\\Reservoom.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T20:40:20.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MakeReservationViewModel.cs",
+              "DocumentMoniker": "C:\\repos\\Reservroom\\Reservoom\\ViewModel\\MakeReservationViewModel.cs",
+              "RelativeDocumentMoniker": "Reservoom\\ViewModel\\MakeReservationViewModel.cs",
+              "ToolTip": "C:\\repos\\Reservroom\\Reservoom\\ViewModel\\MakeReservationViewModel.cs",
+              "RelativeToolTip": "Reservoom\\ViewModel\\MakeReservationViewModel.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAuwIgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:08:47.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\repos\\Reservroom\\Reservoom\\App.xaml",
+              "RelativeDocumentMoniker": "Reservoom\\App.xaml",
+              "ToolTip": "C:\\repos\\Reservroom\\Reservoom\\App.xaml",
+              "RelativeToolTip": "Reservoom\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-22T18:41:43.976Z",
+              "WhenOpened": "2024-05-25T20:50:00.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Reservation.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Models\\Reservation.cs",
-              "RelativeDocumentMoniker": "Reservoom\\Models\\Reservation.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Models\\Reservation.cs",
-              "RelativeToolTip": "Reservoom\\Models\\Reservation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "DocumentIndex": 13,
+              "Title": "NavigateCommand.cs",
+              "DocumentMoniker": "C:\\repos\\Reservroom\\Reservoom\\Commands\\NavigateCommand.cs",
+              "RelativeDocumentMoniker": "Reservoom\\Commands\\NavigateCommand.cs",
+              "ToolTip": "C:\\repos\\Reservroom\\Reservoom\\Commands\\NavigateCommand.cs",
+              "RelativeToolTip": "Reservoom\\Commands\\NavigateCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:43:41.775Z",
+              "WhenOpened": "2024-05-25T20:05:56.435Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Hotel.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Models\\Hotel.cs",
-              "RelativeDocumentMoniker": "Reservoom\\Models\\Hotel.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Models\\Hotel.cs",
-              "RelativeToolTip": "Reservoom\\Models\\Hotel.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:43:27.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ReservationViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\ViewModel\\ReservationViewModel.cs",
-              "RelativeDocumentMoniker": "Reservoom\\ViewModel\\ReservationViewModel.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\ViewModel\\ReservationViewModel.cs",
-              "RelativeToolTip": "Reservoom\\ViewModel\\ReservationViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T21:19:15.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MakeReservationView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Views\\MakeReservationView.xaml.cs",
-              "RelativeDocumentMoniker": "Reservoom\\Views\\MakeReservationView.xaml.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Views\\MakeReservationView.xaml.cs",
-              "RelativeToolTip": "Reservoom\\Views\\MakeReservationView.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T18:06:20.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ReservationListingView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Views\\ReservationListingView.xaml.cs",
-              "RelativeDocumentMoniker": "Reservoom\\Views\\ReservationListingView.xaml.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Views\\ReservationListingView.xaml.cs",
-              "RelativeToolTip": "Reservoom\\Views\\ReservationListingView.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T18:06:22.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CommandBase.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Commands\\CommandBase.cs",
-              "RelativeDocumentMoniker": "Reservoom\\Commands\\CommandBase.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Commands\\CommandBase.cs",
-              "RelativeToolTip": "Reservoom\\Commands\\CommandBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T17:59:22.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ReservationConflictExeption.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Exeptions\\ReservationConflictExeption.cs",
-              "RelativeDocumentMoniker": "Reservoom\\Exeptions\\ReservationConflictExeption.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Exeptions\\ReservationConflictExeption.cs",
-              "RelativeToolTip": "Reservoom\\Exeptions\\ReservationConflictExeption.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:58:27.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "RoomID.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Models\\RoomID.cs",
-              "RelativeDocumentMoniker": "Reservoom\\Models\\RoomID.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Models\\RoomID.cs",
-              "RelativeToolTip": "Reservoom\\Models\\RoomID.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAuwCYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:44:04.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ReservationBook.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Models\\ReservationBook.cs",
-              "RelativeDocumentMoniker": "Reservoom\\Models\\ReservationBook.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\Models\\ReservationBook.cs",
-              "RelativeToolTip": "Reservoom\\Models\\ReservationBook.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:43:51.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Reservoom\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\Reservoom\\Reservoom\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Reservoom\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:41:41.999Z"
             }
           ]
         }

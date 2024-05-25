@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\artel\source\repos\Reservoom\Reservoom\obj\Debug\net8.0-windows\
+C:\repos\Reservroom\Reservoom\obj\Debug\net8.0-windows\
 Reservoom
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\artel\source\repos\Reservoom\Reservoom\App.xaml
+C:\repos\Reservroom\Reservoom\App.xaml
 3-651115779
 
-23-1179135172
-198155382431
+412068887904
+237226095995
 MainWindow.xaml;Views\MakeReservationView.xaml;Views\ReservationListingView.xaml;
 
 False
